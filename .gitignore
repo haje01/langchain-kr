@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python
-
+.python-version
 # 파일
 .DS_Store
 *.env
