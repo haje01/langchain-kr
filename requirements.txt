@@ -141,6 +141,7 @@ langchain-experimental==0.3.4
 langchain-google-genai==2.0.9
 langchain-huggingface==0.1.2
 langchain-milvus==0.1.8
+langchain-ollama==0.2.3
 langchain-openai==0.3.6
 langchain-teddynote==0.0.28
 langchain-text-splitters==0.3.6
@@ -198,6 +199,7 @@ nvidia-nccl-cu12==2.19.3
 nvidia-nvjitlink-cu12==12.6.68
 nvidia-nvtx-cu12==12.1.105
 oauthlib==3.2.2
+ollama==0.4.7
 olefile==0.47
 omegaconf==2.3.0
 onnx==1.14.1
